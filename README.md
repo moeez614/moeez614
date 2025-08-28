@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**moeez614/moeez614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Moeez Ali! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+## 🛠 Skills
+Html | Css | Javascript | React Js | Node js
+
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+## Authors
+
+- [@MoeezAli](https://www.github.com/moeez614)
+    
+I'm mern stack developer , about 1 year plus experience in react js.
