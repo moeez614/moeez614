@@ -9,7 +9,8 @@
 
 ## 🛠 Skills
 Html | Css | Javascript | React Js | Node js
-
+MongoDB | Express Js | Github | Postman | VScode
+Redux | JWT | Socket.io
 
 
 ## Tech Stack
